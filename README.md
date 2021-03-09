@@ -14,10 +14,10 @@ YelpCamp is a responsive website for people to share camping experience. Users c
 * <strong>Deploying App: </strong>Mongo Atlas, Heroku
 
 ### Main Features
-* Users can create an account, sign in and sign out
-* Once logged in, users can create their own campgrounds with name, description, location, price and image(s), and update or delete them later on
-* Users can leave reviews with star ratings, and delete their own reviews
-* Users can view geographical distribution of campgrounds on a cluster map, and see the map of each campground on their detailed page
+* Users may create an account, sign in or sign out
+* Once logged in, users may create their own campgrounds with name, description, location, price and image(s), and update or delete them later on
+* Users may leave reviews with star ratings, and delete their own reviews
+* Users may view geographical distribution of campgrounds on a cluster map, and see the map of each campground on their page
 
 ### Certificate
 <p align="center"><img src="pictures/certificate.jpg" alt="Certificate of Completion"></p>
