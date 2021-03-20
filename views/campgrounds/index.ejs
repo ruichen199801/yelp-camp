@@ -12,7 +12,6 @@
               <% }else {%>
                 <img class="img-fluid" alt=""
                   src="https://res.cloudinary.com/ruichencloud/image/upload/v1615167794/YelpCamp/Mojave_Night_jufj5v.jpg">
-                // default image
                 <% } %>
           </div>
           <div class="col-md-8">
@@ -39,7 +38,7 @@
 
   <script>
     const mapToken = '<%-process.env.MAPBOX_TOKEN%>';
-    const campgrounds = { features: <%-JSON.stringify(campgrounds)%> }
+    const campgrounds = { features: <% -JSON.stringify(campgrounds) %> }
   </script>
 
   <script src="/javascripts/clusterMap.js"></script>

@@ -19,6 +19,11 @@ YelpCamp is a responsive website for people to share camping experience. Users c
 * Users may leave reviews with star ratings, and delete their own reviews
 * Users may view geographical distribution of campgrounds on a cluster map, and see the map of each campground on their page
 
+### Development Setup
+1. Download the project, cd into its directory and run `npm install` to download dependencies needed (you should have node, npm and mongodb installed on your local machine)
+2. To run the project on localhost, use command  `node app.js` or  `nodemon app.js` 
+3. To publish new local commits, use git command `git push heroku master`
+
 ### Certificate
 <p align="center"><img src="pictures/certificate.jpg" alt="Certificate of Completion"></p>
 
