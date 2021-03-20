@@ -21,7 +21,7 @@ YelpCamp is a responsive website for people to share camping experience. Users c
 
 ### Development Setup
 1. Download the project, cd into its directory and run `npm install` to download dependencies needed (you should have node, npm and mongodb installed on your local machine)
-2. Create a cloudinary account to get an API key and secret code, and store these confidential variables in a .env file
+2. Create a cloudinary account to get an API key and secret code, and store these variables in a .env file
 3. To run the project on localhost, use command  `node app.js` or  `nodemon app.js` 
 4. To publish new local commits, use git command `git push heroku master`
 
