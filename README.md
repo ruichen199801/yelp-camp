@@ -7,11 +7,11 @@ YelpCamp is a responsive website for people to share camping experience. Users c
 
 ### Tools and Technologies
 * <strong>Front-end: </strong>HTML5, CSS3, Bootstrap 5, JavaScript, AJAX
-* <strong>Back-end: </strong>Node.js, Express, MongoDB
+* <strong>Back-end: </strong>Node.js, Express, MongoDB (Mongo Atlas)
 * <strong>User Authentification & Authorization: </strong>Passport.js
 * <strong>Image Upload: </strong>Cloudinary
 * <strong>Map & Geocoding: </strong>Mapbox
-* <strong>Deploying App: </strong>Mongo Atlas, Heroku
+* <strong>Deploying App: </strong>Heroku
 
 ### Main Features
 * Users may create an account, sign in or sign out
