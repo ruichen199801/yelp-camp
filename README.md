@@ -6,6 +6,9 @@
 YelpCamp is a responsive website for people to share camping experience. Users can create an account and sign in to create their own campground and leave reviews. This full-stack project is part of Colt Steele's web development course on Udemy. To learn more details, please see the [demo video](https://www.youtube.com/watch?v=3Gy5JuoH9Cw).
 
 ### Tools and Technologies
+
+<p align="center"><img src="pictures/campground-page.jpg" alt="Campground Page"></p>
+
 * <strong>Front-end: </strong>HTML5, CSS3, Bootstrap 5, JavaScript, AJAX
 * <strong>Back-end: </strong>Node.js, Express, MongoDB (Mongo Atlas)
 * <strong>User Authentification & Authorization: </strong>Passport.js
